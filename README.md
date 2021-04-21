@@ -71,7 +71,7 @@ I would love to connect with you on different social media platforms, here are t
 <a href="https://www.researchgate.net/profile/Aman_Nirala"><img src="https://img.shields.io/badge/Follow-Research Gate-DeepSkyBlue"/></a>
 </p>
 
-If you like our work, a bit of contribution would motivate us a lot for more open source contributions.
+If you like my work, a bit of contribution would motivate us a lot for more open source contributions.
 
 <p align="center">
 <a href="https://www.paypal.me/amannirala13"><img src="https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge"></a>
