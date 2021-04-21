@@ -1,6 +1,15 @@
 # YTD (YouTube Downloader)
 A sample command-line application to download YouTube videos url. By [amannirala13](https://github.com/amannirala13)
 
+<p>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/issues"><img src="https://img.shields.io/github/issues/amannirala13/Youtube-Downloader---ytd"></a>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/pulls"><img src="https://img.shields.io/github/issues-pr/amannirala13/Youtube-Downloader---ytd"></a>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/network/members"><img alt = "forks-badge" src="https://img.shields.io/github/forks/amannirala13/Youtube-Downloader---ytd?color=blueviolet"></a>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/stargazers"><img alt = "stars-badge" src="https://img.shields.io/github/stars/amannirala13/Youtube-Downloader---ytd?color=yellow"></a>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/watchers"><img alt="watcher-badge" src="https://img.shields.io/github/watchers/amannirala13/Youtube-Downloader---ytd?color=teal"></a>
+<a href="https://github.com/amannirala13/Youtube-Downloader---ytd/archive/master.zip"><img alt = "repo_size-badge" src="https://img.shields.io/github/repo-size/amannirala13/Youtube-Downloader---ytd"></a>
+</p>
+
 # How To Use:
 ___
 
