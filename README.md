@@ -21,6 +21,17 @@ The output file path is same as the present working directory of your console or
 
 > Note: You can optionally add the path of the executable to environment variable to access the **'ytd'** command from anywhere in the terminal.
 
+
+**Usage:**
+```sh
+ytd https://www.youtube.com/demo-url
+```
+or
+
+```sh
+ytd
+```
+
 ___
 
 ## [License](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
