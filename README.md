@@ -13,7 +13,7 @@ The output file path is same as the present working directory of your console or
 
 ___
 
-##[License](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+## [License](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
 ```
 Copyright 2014, the Dart project authors.
 
