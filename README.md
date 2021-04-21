@@ -1,5 +1,5 @@
 # YTD (YouTube Downloader)
-A sample command-line application to download YouTube videos url. By [amannirala13](https://github.com/amannirala13)
+A simple command-line application to download YouTube videos url. By [amannirala13](https://github.com/amannirala13)
 
 <p align="center">
 <a href="https://github.com/amannirala13/Youtube-Downloader---ytd/issues"><img src="https://img.shields.io/github/issues/amannirala13/Youtube-Downloader---ytd"></a>
