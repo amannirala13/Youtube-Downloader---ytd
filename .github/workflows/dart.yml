@@ -92,3 +92,15 @@ jobs:
       # Generating windows binary 
       - name: Generate macos exe
         run: dart compile exe bin/ytd.dart -o bin/ytd-mac
+        
+      - name: Commit Files
+        run: |
+         git add .
+         git config --local user.email "action@github.com"
+         git config --local user.name "Github Action"
+         git commit -m "ci: Automated indexing done" -a | exit 0
+      - name: Push changes
+        if: github.ref == 'refs/heads/master'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
