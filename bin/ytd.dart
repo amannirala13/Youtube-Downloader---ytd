@@ -32,7 +32,7 @@ void getStreamManifest(StreamManifest value) async {
   try{var manifest = value;
   var streamInfo = manifest.muxed.sortByVideoQuality().last;
   if(streamInfo != null){var stream = yt.videos.streamsClient.get(streamInfo);
-    var file = File('test.mp4');
+    var file = File('${video.title}.mp4');
     var filestream = file.openWrite();
     print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n'
         'Downloading... Please wait...'
