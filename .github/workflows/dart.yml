@@ -77,7 +77,7 @@ jobs:
         
       # Generating windows binary 
       - name: Generate windows execustable
-        run: dart compile exe bin/ytd.dart -o bin/ytd-win
+        run: dart compile exe bin/ytd.dart -o bin/ytd.exe
         
       - name: Commit Files
         run: |
