@@ -19,7 +19,7 @@ Run the executable and pass the **YouTube video url**. Once this is done, your v
 
 The output file path is same as the present working directory of your console or the file.
 
->> Note: You can optionally add the path of the executable to environment variable to access the **'ytd'** command from anywhere in the terminal.
+> Note: You can optionally add the path of the executable to environment variable to access the **'ytd'** command from anywhere in the terminal.
 
 ___
 
