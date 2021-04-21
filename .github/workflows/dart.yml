@@ -44,7 +44,8 @@ jobs:
          git add .
          git config --local user.email "action@github.com"
          git config --local user.name "Github Action"
-         git commit -m "ci: Generated linux executables" -a | exit 0
+         git commit -m "ci: Generated linux executables" -a
+         
       - name: Push changes
         if: github.ref == 'refs/heads/master'
         uses: ad-m/github-push-action@master
@@ -83,7 +84,8 @@ jobs:
          git add .
          git config --local user.email "action@github.com"
          git config --local user.name "Github Action"
-         git commit -m "ci: Generated windows executables" -a | exit 0
+         git commit -m "ci: Generated windows executables" -a
+         
       - name: Push changes
         if: github.ref == 'refs/heads/master'
         uses: ad-m/github-push-action@master
@@ -122,7 +124,8 @@ jobs:
          git add .
          git config --local user.email "action@github.com"
          git config --local user.name "Github Action"
-         git commit -m "ci: Generated mac executables" -a | exit 0
+         git commit -m "ci: Generated mac executables" -a
+         
       - name: Push changes
         if: github.ref == 'refs/heads/master'
         uses: ad-m/github-push-action@master
