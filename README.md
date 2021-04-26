@@ -13,7 +13,7 @@ A simple command-line application to download YouTube videos via url. By [amanni
 # How To Use:
 ___
 
-Download the latest release for your platform from [Releases](https://github.com/amannirala13/Youtube-Downloader---ytd/releases).
+### **Download** the latest release for your platform from [Releases](https://github.com/amannirala13/Youtube-Downloader---ytd/releases).
 
 Run the executable and pass the **YouTube video url**. Once this is done, your video will start downloading.
 
