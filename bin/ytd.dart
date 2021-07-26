@@ -2,14 +2,18 @@ import 'package:youtube_explode_dart/youtube_explode_dart.dart';
 import 'package:youtube_explode_dart/src/youtube_explode_base.dart';
 import 'dart:io';
 
-String url;
+String url = '';
 var yt = YoutubeExplode();
-Video video;
-Stopwatch stopwatch;
+var video;
+var stopwatch;
 
 void main(List<String> arguments){
-  if(arguments.isEmpty){print('Enter youtube video URL: ');
-  url = stdin.readLineSync();}else{url = arguments[0];}loadVideoFromURL();
+  if(arguments.isEmpty)
+    {print('Enter youtube video URL: ');
+     url = stdin.readLineSync()!;
+    }
+  else{url = arguments[0];}
+  loadVideoFromURL();
 }void loadVideoFromURL() {
   stopwatch = Stopwatch()..start();
   try {print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n'
